@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "010eafa354d7107cd411adc18a21a1c46404048d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "NugetDemo/1.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.8.26"
+        },
+        "runtime": {
+          "NugetDemo.dll": {}
+        }
+      },
+      "Humanizer.Core/2.8.26": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.26.1919"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NugetDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Humanizer.Core/2.8.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hdDm8u0FrPEorV1qXA+W01DCR9zeNX5fwe5fXFUyzmA/JjLxMjt7/W672rSOWIjWHGkD6cZYOFLjIg/0O+a8kg==",
+      "path": "humanizer.core/2.8.26",
+      "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    }
+  }
+}

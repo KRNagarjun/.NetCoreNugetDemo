@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\bin\Debug\netcoreapp2.1\NugetDemo.deps.json
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\bin\Debug\netcoreapp2.1\NugetDemo.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\bin\Debug\netcoreapp2.1\NugetDemo.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\bin\Debug\netcoreapp2.1\NugetDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\obj\Debug\netcoreapp2.1\NugetDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\obj\Debug\netcoreapp2.1\NugetDemo.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\obj\Debug\netcoreapp2.1\NugetDemo.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\bin\Debug\netcoreapp2.1\NugetDemo.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\obj\Debug\netcoreapp2.1\NugetDemo.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\obj\Debug\netcoreapp2.1\NugetDemo.dll
+C:\Users\USER\OneDrive\Desktop\L&T\NugetDemo\NugetDemo\obj\Debug\netcoreapp2.1\NugetDemo.pdb
